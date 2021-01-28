@@ -10,13 +10,13 @@
   "specificatiedocument": [
     {
       "naam": "Vlaamse URI-Standaard voor Data (PDF)",
-      "waarde": "http://data.vlaanderen.be/cms/VlaamseURI-StandaardVoorData_V1.0.pdf"
+      "waarde": "https://data.vlaanderen.be/cms/VlaamseURI-StandaardVoorData_V1.0.pdf"
     }
   ],
   "documentatie": [
     {
       "naam" : "URI-richtlijnen voor data.vlaanderen.be (PDF)",
-      "waarde" : "http://data.vlaanderen.be/cms/URI_RichtlijnenDataVlaanderenBe_V1.pdf"
+      "waarde" : "https://data.vlaanderen.be/cms/URI_RichtlijnenDataVlaanderenBe_V1.pdf"
     }
   ],
   "charter": [],
