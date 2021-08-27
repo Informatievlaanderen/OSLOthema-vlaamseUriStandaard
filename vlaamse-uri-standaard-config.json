@@ -1,12 +1,12 @@
 {
   "naam": "Vlaamse URI-Standaard voor Data",
-  "rapport" : "",
-  "verantwoordelijke_organisatie": "Agentschap Informatie Vlaanderen",
-  "identificator_organisatie": "https://data.vlaanderen.be/doc/organisatie/OVO002949",
+  "rapport": "",
+  "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
+  "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
   "publicatiedatum": "2018-05-22",
   "type_toepassing": "Aanbevolen (vrijwillig)",
   "categorie": "Technische standaard",
-  "beschrijving" : "vlaamse-uri-standaard.md",
+  "beschrijving": "vlaamse-uri-standaard.md",
   "specificatiedocument": [
     {
       "naam": "Vlaamse URI-Standaard voor Data (PDF)",
